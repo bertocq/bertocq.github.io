@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bertocq.github.io
+url: http://bertocq.es
 title: Bertocq
 subtitle: Mobile &amp; Web Developer from Spain.
 author: Alberto Calderon @bertocq
-simple_search: http://google.com/search
+simple_search: http://www.duckduckgo.com/
 description: Personal website of Alberto Calderon a mobile and web developer from Spain.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
