@@ -16,7 +16,7 @@ description: Personal website of Alberto Calderon a mobile and web developer fro
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/bertocq
 subscribe_email:
 category_feeds: true
 
@@ -29,7 +29,7 @@ email: bertocq@gmail.com
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
