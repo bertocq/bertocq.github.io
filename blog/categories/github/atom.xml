@@ -4,7 +4,7 @@
   <title><![CDATA[Category: github | Bertocq]]></title>
   <link href="http://bertocq.es/blog/categories/github/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2013-06-24T13:53:24+02:00</updated>
+  <updated>2013-07-03T16:27:56+02:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon @bertocq]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello (Octopress) World!]]></title>
-    <link href="http://bertocq.es/blog/2013/05/24/hello-world/"/>
+    <link href="http://bertocq.es/blog/hello-world/"/>
     <updated>2013-05-24T01:32:00+02:00</updated>
-    <id>http://bertocq.es/blog/2013/05/24/hello-world</id>
+    <id>http://bertocq.es/blog/hello-world</id>
     <content type="html"><![CDATA[<p>The hosting of my wordpress blog died less than a year ago, because I didn&rsquo;t have enough time and motivation to write.</p>
 
 <p>So here I am, getting back on business, but this time with octopress and in english!</p>
