@@ -6,8 +6,8 @@ comments: true
 categories: [octopress, github]
 ---
 
-The hosting of my wordpress blog died less than a year ago, because I didn't have enough time and motivation to write.
+My last blog died because I didn't have the time and motivation to write, mostly because I was tired of installing and modding wordpress for freelance jobs. Long ago I read some articles about Octopress and since many of the blogs I check use it I'm giving it a try.
 
-So here I am, getting back on business, but this time with octopress and in english!
+So here I am, getting back on business, interesting and life-changing things happened to me this year and I think a have enough to write about the past, present and future. I'll be mainly writting about professional on mobile and web development, personal things normally go on facebook lately.
 
-I'll start with some plugins and theme customizations in my spare time.
+I'll start with some plugins and theme customizations in my spare time. Welcome!

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Winning a Firefox OS hackathon"
-date: 2013-07-03 18:42
+date: 2013-06-03 18:42
 comments: true
 categories:
-published: false
+published: true
 ---
 
 This should be unpublished

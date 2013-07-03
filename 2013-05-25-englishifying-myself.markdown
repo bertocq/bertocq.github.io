@@ -7,11 +7,13 @@ categories: [english, self-improvement]
 published: false
 ---
 
-Why will I write my blog in English and not in Spanish? Well the main goal of this blog is to share my work with profession collegues, and they should have enough english level to understand me, if not... there is something wrong ;)
+Why will I write my blog in English and not in Spanish? Well the main goal of this blog is to share my work with profession collegues, and they should have enough english level to understand me, if not... there is something wrong with them.
 
 A few days ago I got an email announcing that I've been accepted as a former Firefox Marketplace App Review Team member, and that there will be a kick-off session June 5.
 
-After the joy and celebration I started to read with enthusiasm the recommended links and realize that even I have a very good english level for earing and writing, but my speaking lacks of practice...
+After the joy and celebration I started to read with enthusiasm the recommended links and realize that even I've got a good english level for earing and writing, my speaking lacks lots of practice...
+
+So this will be a weekly exercise of writing to improve my fluency with Shakespeare's language.
 
 How did I learn english? When it comes to learning I'm the kind of student that fuels with motivation, so normally I procastinated alot when I didn't understood why should a computer engineer learn how algebra works or a composed integral derivation is calculated in a paper.
 
