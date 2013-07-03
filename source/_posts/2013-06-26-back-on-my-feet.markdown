@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Back on my feet"
+title: "Back on track"
 date: 2013-06-26 22:25
 comments: true
-categories: personal, development
-published: false
+categories: [Personal, Projects]
+published: true
 ---
 
-It's has been a hell of a month, but finally it's all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting?? our things, setting up internet and ligth contracts... etc..)
+It's has been a hell of a month, but finally difficulties all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting?? our things, setting up internet and ligth contracts... etc..)
 
 So we are finally stable and I can get back to business.
 

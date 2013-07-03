@@ -433,7 +433,7 @@ task :x do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -am \"#{message}\""
-    Rake::Task[:integrate].execute
+    #Rake::Task[:integrate].execute
     Rake::Task[:generate].execute
     system "git push origin source"
     Rake::Task[:deploy].execute
