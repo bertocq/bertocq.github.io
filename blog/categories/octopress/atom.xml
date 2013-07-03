@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | Bertocq]]></title>
   <link href="http://bertocq.es/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2013-07-03T18:49:57+02:00</updated>
+  <updated>2013-07-03T20:59:27+02:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon @bertocq]]></name>
@@ -18,11 +18,11 @@
     <link href="http://bertocq.es/blog/hello-world/"/>
     <updated>2013-05-24T01:32:00+02:00</updated>
     <id>http://bertocq.es/blog/hello-world</id>
-    <content type="html"><![CDATA[<p>The hosting of my wordpress blog died less than a year ago, because I didn&rsquo;t have enough time and motivation to write.</p>
+    <content type="html"><![CDATA[<p>My last blog died because I didn&rsquo;t have the time and motivation to write, mostly because I was tired of installing and modding wordpress for freelance jobs. Long ago I read some articles about Octopress and since many of the blogs I check use it I&rsquo;m giving it a try.</p>
 
-<p>So here I am, getting back on business, but this time with octopress and in english!</p>
+<p>So here I am, getting back on business, interesting and life-changing things happened to me this year and I think a have enough to write about the past, present and future. I&rsquo;ll be mainly writting about professional on mobile and web development, personal things normally go on facebook lately.</p>
 
-<p>I&rsquo;ll start with some plugins and theme customizations in my spare time.</p>
+<p>I&rsquo;ll start with some plugins and theme customizations in my spare time. Welcome!</p>
 ]]></content>
   </entry>
   

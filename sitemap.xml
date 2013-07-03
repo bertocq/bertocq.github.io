@@ -2,23 +2,27 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://bertocq.es/blog/hello-world/</loc>
-        <lastmod>2013-06-03T08:45:23+02:00</lastmod>
+        <lastmod>2013-07-03T19:46:40+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bertocq.es/blog/winning-a-firefox-os-hackathon/</loc>
+        <lastmod>2013-07-03T19:41:36+02:00</lastmod>
     </url>
     <url>
         <loc>http://bertocq.es/blog/zte-open-unboxing/</loc>
-        <lastmod>2013-07-03T17:14:34+02:00</lastmod>
+        <lastmod>2013-07-03T20:58:35+02:00</lastmod>
     </url>
     <url>
         <loc>http://bertocq.es/about/</loc>
-        <lastmod>2013-07-03T16:06:17+02:00</lastmod>
+        <lastmod>2013-07-03T19:15:25+02:00</lastmod>
     </url>
     <url>
         <loc>http://bertocq.es/blog/archives/</loc>
-        <lastmod>2013-07-03T17:14:34+02:00</lastmod>
+        <lastmod>2013-07-03T20:58:35+02:00</lastmod>
     </url>
     <url>
         <loc>http://bertocq.es/</loc>
-        <lastmod>2013-07-03T17:14:34+02:00</lastmod>
+        <lastmod>2013-07-03T20:58:35+02:00</lastmod>
     </url>
     <url>
         <loc>http://bertocq.es/robots.txt</loc>
