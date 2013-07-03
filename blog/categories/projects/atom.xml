@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Projects | Bertocq]]></title>
+  <link href="http://bertocq.es/blog/categories/projects/atom.xml" rel="self"/>
+  <link href="http://bertocq.es/"/>
+  <updated>2013-07-03T22:30:49+02:00</updated>
+  <id>http://bertocq.es/</id>
+  <author>
+    <name><![CDATA[Alberto Calderon @bertocq]]></name>
+    <email><![CDATA[bertocq@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Back on track]]></title>
+    <link href="http://bertocq.es/blog/back-on-track/"/>
+    <updated>2013-06-26T22:25:00+02:00</updated>
+    <id>http://bertocq.es/blog/back-on-track</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s has been a hell of a month, but finally difficulties all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting our things, setting up internet, gas, water and ligth contracts&hellip;). Emancipation is hard, but this was a master class!</p>
+
+<p>So we are finally stable and I can get back to business.</p>
+
+<p>More to come.. still writing this one</p>
+]]></content>
+  </entry>
+  
+</feed>
