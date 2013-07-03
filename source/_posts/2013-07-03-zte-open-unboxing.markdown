@@ -7,6 +7,7 @@ categories: [Firefox OS, ZTE Open, Movistar, Mobile Dev]
 published: true
 ---
 
+> This is just a quick post, I'll update and improve after getting some sleep
 ## Getting the device
 This Monday I read about [Movistar launching the ZTE Open](http://firefoxosguide.com/firefox-os/zte-open-to-launch-tomorrow-in-spain-venezuela-colombia-on-15th-july.html/ "Movistar zte open launch") so I rushed to the nearest Movistar shop to ask when they will receive and how many, but they didn't even know what Firefox OS was about!.
 
