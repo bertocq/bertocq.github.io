@@ -11,8 +11,6 @@ keywords: firefox os, zte open, movistar, unboxing
 
 > This is just a quick post!! it will be updated and improved after getting some sleep ;)
 
-> Since I got the "Contrato 6" plan that has no permanence obligation and I got no debts with Movistar I was able to get de NCK number to unlock de device just calling the 1004 number!!
-
 ## Getting the device
 This Monday I read about [Movistar launching the ZTE Open](http://firefoxosguide.com/firefox-os/zte-open-to-launch-tomorrow-in-spain-venezuela-colombia-on-15th-july.html/ "Movistar zte open launch"), so I rushed to the nearest [Movistar](http://www.movistar.es "Movistar") shop to ask when they will receive and how many units, but they didn't even know what Firefox OS was about!.
 
