@@ -66,7 +66,7 @@ The main problem interacting with the device is the touch screen, I can't hardly
 ---
 ## Review
 
-Well there are actually lots of good unboxing post and videos if you want to take a deeper view on the mobile device:
+Well there are actually lots of good unboxing post and videos if you want to take a deeper view on the mobile device (all in Spanish):
 
 * http://blogthinkbig.com/unboxing-zte-open/
 * http://www.movilzona.es/2013/07/01/unboxing-y-toma-de-contacto-en-video-del-zte-open-de-movistar/
