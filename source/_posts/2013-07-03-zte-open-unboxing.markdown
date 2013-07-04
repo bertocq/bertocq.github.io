@@ -18,7 +18,7 @@ I had to show them my [GeeksPhone Keon and Peak](http://shop.geeksphone.com/en/3
 
 So this morning my Google Nexus rang with good news! they received only one unit and luckyly I was the first in line :).
 
-Since I'll be using it for development only I chose the voice-only plan that costs 6€/month (it's the minimum) and for internet connection WiFi will be enough. In a month or so I'll be able to cancel the contract and move to a prepaid plan or just nothing.
+Since I'll be using it for development only I chose the voice-only plan "Contrato 6" that costs 6€/month (it's the minimum) and for internet connection WiFi will be enough. This plan doesn't have permanence obligations so you can get the NCK code to unlock the device by calling the support number 1004.
 
 {% img center https://lh5.googleusercontent.com/-J_ZmhGWhG8M/UdRuQRbysOI/AAAAAAAAD-0/JjFW0YrvCDg/w907-h680-no/P1080104.JPG 500 auto [The box it's made of thin cardboard but seems cool [The box it's made of thin cardboard but seems cool]] %}
 
@@ -51,10 +51,10 @@ My Google Nexus feeling his near death.
 {% img center https://lh3.googleusercontent.com/-mPgHhOEQqVg/UdRuUUl0ROI/AAAAAAAAD_0/YY_r9v1UMVk/w907-h680-no/P1080152.JPG 500 auto [ []] %}
 ## Testing
 
-Just took a quick video with Moby Dick by Led Zeppelin on the background:
-
-<iframe class="center" width="420" height="315" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
-
+Just took a [quick video test](www.youtube.com/watch?v=x5Ap_CSviQM) with Moby Dick by Led Zeppelin on the background:
+<div class="centered">
+<iframe width="500" height="360" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 And a sample photo:
 
 {% img center https://lh3.googleusercontent.com/-pop8B2A7fDc/UdVM4G-cTEI/AAAAAAAAEBY/ehl_tQGjkr8/w510-h680-no/IMG_0008.jpg 500 auto [ []] %}
