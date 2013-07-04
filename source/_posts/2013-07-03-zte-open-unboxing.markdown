@@ -53,7 +53,14 @@ My Google Nexus feeling his near death.
 
 Just took a quick video with Moby Dick by Led Zeppelin on the background:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe class="center" width="420" height="315" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+And a sample photo:
+
+{% img center https://lh3.googleusercontent.com/-pop8B2A7fDc/UdVM4G-cTEI/AAAAAAAAEBY/ehl_tQGjkr8/w510-h680-no/IMG_0008.jpg 500 auto [ []] %}
+
+The main problem interacting with the device is the touch screen, I can't hardly type without failing 1 of 3 letters, it doesn't feel as accurate as my Google Nexus, although the Keon an Peak wasn't too far on this.
+
 
 ## Toughts
 The ZTE Open its very similar on the outside and inside [compared with the GeeksPhone Keon](http://versus.com/en/geeksphone-keon-vs-zte-open) but its still the only one Firefox OS device for the normal user. I hope Movistar's fork of FirefoxOS will not divert too much from the rest of mobile operators, just to avoid the damm fragmentation that we got on Android right now.
