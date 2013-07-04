@@ -9,6 +9,8 @@ published: true
 
 > This is just a quick post!! it will be updated and improved after getting some sleep ;)
 
+> Since I got the "Contrato 6" plan that has no permanence obligation and I got no debts with Movistar I was able to get de NCK number to unlock de device just calling the 1004 number!!
+
 ## Getting the device
 This Monday I read about [Movistar launching the ZTE Open](http://firefoxosguide.com/firefox-os/zte-open-to-launch-tomorrow-in-spain-venezuela-colombia-on-15th-july.html/ "Movistar zte open launch") so I rushed to the nearest Movistar shop to ask when they will receive and how many, but they didn't even know what Firefox OS was about!.
 
@@ -22,7 +24,9 @@ Since I'll be using it for development only I chose the voice-only plan that cos
 
 
 ##Unboxing
-As expected the device isn't unlocked, and comes with a Movistar logo on it's back and on the shutdown screen. Also they added a "Mi Movistar" app to access the client panel, and a Settings menu under Operator Services to open the operator chat and email services.
+As expected the device isn't unlocked, but since I got the "Contrato 6" plan that has no permanence obligation and I got no debts with Movistar I was able to get de NCK number to unlock de device just calling the 1004 number!.
+
+It comes with a Movistar logo on it's back and on the shutdown screen. Also they added a "Mi Movistar" app to access the client panel, and a Settings menu under Operator Services to open the operator chat and email services.
 
 {% img center https://lh4.googleusercontent.com/-Y2zQX5Q4AVM/UdRuP_bfxmI/AAAAAAAAD-o/sZGtC0vywGY/w907-h680-no/P1080115.JPG 500 auto [There seems to be a mix of logos still between desktop and mobile [There seems to be a mix of logos still between desktop and mobile ]] %}
 
