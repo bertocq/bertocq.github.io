@@ -5,6 +5,8 @@ date: 2013-07-03 16:51
 comments: true
 categories: [Firefox OS, ZTE Open, Movistar, Mobile Dev]
 published: true
+description: Unboxing the ZTE Open from Movistar that uses Firefox OS
+keywords: firefox os, zte open, movistar, unboxing
 ---
 
 > This is just a quick post!! it will be updated and improved after getting some sleep ;)
