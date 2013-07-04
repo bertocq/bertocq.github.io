@@ -49,6 +49,11 @@ A quick comparation with the GeeksPhone Keon & Peak models.
 My Google Nexus feeling his near death.
 
 {% img center https://lh3.googleusercontent.com/-mPgHhOEQqVg/UdRuUUl0ROI/AAAAAAAAD_0/YY_r9v1UMVk/w907-h680-no/P1080152.JPG 500 auto [ []] %}
+## Testing
+
+Just took a quick video with Moby Dick by Led Zeppelin on the background:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Toughts
 The ZTE Open its very similar on the outside and inside [compared with the GeeksPhone Keon](http://versus.com/en/geeksphone-keon-vs-zte-open) but its still the only one Firefox OS device for the normal user. I hope Movistar's fork of FirefoxOS will not divert too much from the rest of mobile operators, just to avoid the damm fragmentation that we got on Android right now.
