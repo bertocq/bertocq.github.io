@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Projects | Bertocq]]></title>
+  <title><![CDATA[Category: Projects | BertoCQ]]></title>
   <link href="http://bertocq.es/blog/categories/projects/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2013-07-05T23:10:49+02:00</updated>
+  <updated>2013-07-05T23:15:49+02:00</updated>
   <id>http://bertocq.es/</id>
   <author>
-    <name><![CDATA[Alberto Calderon @bertocq]]></name>
+    <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
     <email><![CDATA[bertocq@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
