@@ -53,13 +53,24 @@ My Google Nexus feeling his future death.
 ---
 ## Testing
 
-I took a [quick video test](www.youtube.com/watch?v=x5Ap_CSviQM) with 'Moby Dick' by Led Zeppelin on the background:
+To test the microphone and video recording indoors I took a [quick video test](www.youtube.com/watch?v=x5Ap_CSviQM) with 'Moby Dick' by Led Zeppelin on the background:
 <div class="centered">
 <iframe width="500" height="360" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-And a sample photo:
 
-{% img center https://lh3.googleusercontent.com/-pop8B2A7fDc/UdVM4G-cTEI/AAAAAAAAEBY/ehl_tQGjkr8/w510-h680-no/IMG_0008.jpg 500 auto [ []] %}
+[One more video outdoors](www.youtube.com/watch?v=9PVHuJ6A86U) to see how the camera adapted to the changes in luminosity with bright sun:
+<div class="centered">
+<iframe width="500" height="360" src="//www.youtube.com/embed/9PVHuJ6A86U?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+And a sample photo indoor:
+
+{% img center https://lh6.googleusercontent.com/-pop8B2A7fDc/UdVM4G-cTEI/AAAAAAAAEBY/ehl_tQGjkr8/s512/IMG_0008.jpg 500 auto [ []] %}
+
+and outdoors:
+
+{% img center https://lh4.googleusercontent.com/-Gt1iuh3VvBk/UdawfhEPj0I/AAAAAAAAEC0/bnPVzORoEWs/s720/IMG_0036.jpg 500 auto [Fun fact: thats a Police Station! []] %}
+
 
 The main problem interacting with the device is the touch screen, I can't hardly type without failing 1 of 3 letters, it doesn't feel as accurate as my Google Nexus, although the Keon an Peak had similar problems in my experience.
 
