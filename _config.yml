@@ -75,6 +75,9 @@ github_skip_forks: true
 twitter_user: bertocq
 twitter_tweet_button: true
 
+# Linkedin
+linkedin_user: bertocq
+
 # Google +1
 google_plus_one: true
 google_plus_one_size: medium
