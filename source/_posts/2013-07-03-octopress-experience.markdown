@@ -19,7 +19,31 @@ Theming
 
 Tweaking
 
-Other modifications
+Other modifications:
+
+
+
+Home page Keywords and Description
+
+The Octopress by default shows latest post as home page, I choose not to go this way, my default home page is archive list. So there is no post from where it should include the keywords and description.
+
+Setting Keywords and Description for Home page in _config.yml
+
+Open the _config.yml and add the kewords and description keys:
+
+description: Kornelije Sajler (xajler) Learn-a-holic Geek Notes. Human compiled Brainwork by Kornelije Sajler (xajler).
+keywords: Kornelije Sajler, xajler, metaintellect, learnaholic, learn-a-holic, coding, programming, Ruby, Ruby On Rails, RSpec TDD, cucumber, jasmine, bacbone.js, postgresql, mongodb
+Change head.html template to be aware of Home page SEO
+
+In .themes/classic/source/_includes/head.html after meta tag for author replace the current description/keywords code with this one:
+
+<meta name="author" content="{{ site.author }}">
+{% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
+<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{%else%}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+
+
+
 
 Rakefile:
 
