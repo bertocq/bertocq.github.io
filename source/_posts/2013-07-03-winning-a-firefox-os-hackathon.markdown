@@ -12,7 +12,7 @@ I had the oportunitty to talk with [@soyjavi](https://twitter.com/soyjavi), it's
 
 The talks where great and inspiring, speakers [@jmcantera](https://twitter.com/jmcantera) and [Cristian Rodriguez](https://github.com/crdlc) I still had some memories from the talk on the past SpainJS conferences where I was able to touch the first prototype:
 
- {% img center http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg 500 auto [Winning a GeeksPhone Peak[] ] %}
+ {% img center http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg 500 500 'Winning a GeeksPhone Peak' 'Winning a GeeksPhone Peak' %}
 
 Some GeeksPhone devices where given as prize for technical questions but it felt almost random.
 
@@ -43,6 +43,6 @@ Then the jury went out of the room and I started to pack my things because I was
 
 So thats the story of how I got my GeeksPhone Peak all alone in a hackathon 285km far from home ;)
 
-{% img center https://pbs.twimg.com/media/BKh5_uWCQAAH9ny.jpg:large 500 auto [Winning a GeeksPhone Peak[] ] %}
+{% img center https://pbs.twimg.com/media/BKh5_uWCQAAH9ny.jpg:large 500 500 'Winning a GeeksPhone Peak' 'Winning a GeeksPhone Peak' %}
 
 
