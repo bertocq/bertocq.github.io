@@ -47,6 +47,8 @@ In .themes/classic/source/_includes/head.html after meta tag for author replace 
 
 Rakefile:
 
+some seen here http://www.ewal.net/2012/09/08/octopress-customizations/
+
 Just after the line ' post.puts "categories: " '
 {% codeblock Set new post as draft, add desc and keys, and open on Subl - Rakefile %}
 

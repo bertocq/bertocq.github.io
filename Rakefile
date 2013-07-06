@@ -426,8 +426,31 @@ task :sitemapgoogle do
   end
 end
 
+desc 'Notify Bing of the new sitemap'
+task :sitemapbing do
+  begin
+    require 'net/http'
+    require 'uri'
+    puts '* Pinging Bing about our sitemap'
+    Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' + URI.escape('http://www.ewal.net/sitemap.xml'))
+  rescue LoadError
+    puts '! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found.'
+  end
+end
+
+desc 'Ping pingomatic'
+task :pingomatic do
+  begin
+    require 'xmlrpc/client'
+    puts '* Pinging ping-o-matic'
+    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'Bertocq.es' , 'http://www.bertocq.es', 'http://www.bertocq.es/atom.xml')
+  rescue LoadError
+    puts '! Could not ping ping-o-matic, because XMLRPC::Client could not be found.'
+  end
+end
+
 desc "Notify various services about new content"
-task :notify => [:sitemapgoogle] do
+task :notify => [:sitemapgoogle, :sitemapbing, :pingomatic] do
 end
 
 desc "Generate website, add, commit and deploy"

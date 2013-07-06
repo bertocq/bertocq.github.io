@@ -14,4 +14,4 @@ So we are finally stable and I can get back to business.
 Meanwhile I was accepted as in the Firefox App Review Team, and wrote down two more ideas that hopefully will transform in nice FirefoxOS apps one day. Also bought an GeeksPhone Keon so the Peak doesn't feel alone anymore.
 
 
-{% img center https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg 500 auto [The box it's made of thin cardboard but seems cool [The box it's made of thin cardboard but seems cool]] %}
+{% img center https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg 500 auto %}
