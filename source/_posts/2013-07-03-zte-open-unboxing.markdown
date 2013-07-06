@@ -55,12 +55,12 @@ My Google Nexus feeling his future death.
 
 To test the microphone and video recording indoors I took a [quick video test](www.youtube.com/watch?v=x5Ap_CSviQM) with 'Moby Dick' by Led Zeppelin on the background:
 <div class="centered">
-<iframe width="500" height="360" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="360" src="//www.youtube.com/embed/x5Ap_CSviQM?rel=0" allowfullscreen></iframe>
 </div>
 
 [One more video outdoors](www.youtube.com/watch?v=9PVHuJ6A86U) to see how the camera adapted to the changes in luminosity with bright sun:
 <div class="centered">
-<iframe width="500" height="360" src="//www.youtube.com/embed/9PVHuJ6A86U?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="360" src="//www.youtube.com/embed/9PVHuJ6A86U?rel=0"  allowfullscreen></iframe>
 </div>
 
 And a sample photo indoor:
@@ -85,7 +85,7 @@ Well there are actually lots of good unboxing post and videos if you want to tak
 * http://www.wayerless.com/2013/07/zte-open-a-primera-vista/
 
 <div class="centered">
-<iframe width="500" height="480" src="//www.youtube.com/embed/Wjs3_hY29Q8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="480" src="//www.youtube.com/embed/Wjs3_hY29Q8?rel=0" allowfullscreen></iframe>
 </div>
 
 ---
