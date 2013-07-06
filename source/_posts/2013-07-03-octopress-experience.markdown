@@ -21,7 +21,7 @@ Tweaking
 
 Other modifications:
 
-
+http://www.yatishmehta.in/seo-for-octopress
 
 Home page Keywords and Description
 
