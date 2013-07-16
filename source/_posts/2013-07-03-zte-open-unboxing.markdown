@@ -9,7 +9,7 @@ description: Unboxing the ZTE Open from Movistar that uses Firefox OS
 keywords: firefox os, zte open, movistar, unboxing
 ---
 
->> Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114)
+> # Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114)
 
 
 ## Getting the device
