@@ -463,6 +463,7 @@ task :x do
     #Rake::Task[:generate].execute
     system "git push origin source"
     Rake::Task[:deploy].execute
+    Rake::Task[:notify].execute
 end
 
 

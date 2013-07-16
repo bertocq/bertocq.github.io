@@ -4,7 +4,7 @@ title: "Selling ZTE Open unopened &amp; unlocked"
 date: 2013-07-16 22:12
 comments: true
 categories: [Selling, ZTE Open]
-published: true
+published: false
 description:
 keywords: zte open, firefox os, sell, ebay, auction
 ---
