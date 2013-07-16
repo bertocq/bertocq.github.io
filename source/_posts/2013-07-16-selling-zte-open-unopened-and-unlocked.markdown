@@ -4,16 +4,24 @@ title: "Selling ZTE Open unopened &amp; unlocked"
 date: 2013-07-16 22:12
 comments: true
 categories: [Selling, ZTE Open]
-published: false
+published: true
 description:
 keywords: zte open, firefox os, sell, ebay, auction
 ---
+> # Want to buy a ZTE Open?
+> ## I just [sold one on ebay in 1h and 23min](http://www.ebay.es/itm/321165807114) Tomorrow I'll try to get another one, if you are interested [let me know](mailto:bertocq@gmail.com)
 
-> # Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114) !!
+The **box is unopened**, just bought in the shop. It will be delivered **with NCK code number for unlocking** with your own SIM card when its unboxed. Also **shipping Worldwide!!**
 
-I just got another ZTE Open device from the local Movistar shop for a friend but he managed to get one in the meantime so I'm selling it on ebay and shipping wordlwide.
+Box comes with:
 
-Its unopened and will be delivered with NCK code number for unlocking with your own SIM Card when you unbox it.
+    4Gb MicroSD card
+    MicroUSB cable
+    USB Charger
+    Earphones
+    Manual & Warranty (2 years)
+    Battery
+    ZTE Open device
 
 {% img center https://lh4.googleusercontent.com/-YW8on0EQNXg/UeWkcpsc2sI/AAAAAAAAEE4/n3ucb2D5nQ8/s512/P1080257.JPG 500 500 '' '' %}
 
