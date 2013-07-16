@@ -9,7 +9,7 @@ description: Unboxing the ZTE Open from Movistar that uses Firefox OS
 keywords: firefox os, zte open, movistar, unboxing
 ---
 
-> # Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114)
+> # Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114) !!
 
 
 ## Getting the device
@@ -94,3 +94,5 @@ Well there are actually lots of good unboxing post and videos if you want to tak
 The ZTE Open its very similar on the outside and inside [compared with the GeeksPhone Keon](http://versus.com/en/geeksphone-keon-vs-zte-open) but its still the only one Firefox OS device for the normal user. I hope Movistar's fork of FirefoxOS will not divert too much from the rest of mobile operators, just to avoid the damm fragmentation that we got on Android right now.
 
 I see it as a feature phone killer for users like my parents: just need the device to be able to call, set alarms, see the calendar and find something on the internet or a map from time to time... and also comes with a nice touch screen and the dimensions are still acceptable for them. Someone is going to get a FirefoxOS device for Christmas!!
+
+> # Want to buy a ZTE Open? [Get this one on ebay](http://www.ebay.es/itm/321165807114) !!
