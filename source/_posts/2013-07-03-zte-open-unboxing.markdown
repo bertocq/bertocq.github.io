@@ -41,7 +41,7 @@ The accesories seems to have worst quality than the Geeksphone ones, even the ch
 
 After basic configuration updates kicked in! The basic pack its enough for starters, although the game pack doesn't fit my taste. In the list you can uncheck updates.
 
-{% img center https://lh5.googleusercontent.com/-SrFJI-saUSs/UdRuR8579eI/AAAAAAAAD_M/aFP3kjL1IGY/w987-h740-no/P1080125.JPG 500 auto 'You can uncheck the updates you dont want now' 'You can uncheck the updates you dont want now' %}
+{% img center https://lh5.googleusercontent.com/-SrFJI-saUSs/UdRuR8579eI/AAAAAAAAD_M/aFP3kjL1IGY/w987-h740-no/P1080125.JPG 500 500 'You can uncheck the updates you dont want now' 'You can uncheck the updates you dont want now' %}
 
 A quick comparation with the GeeksPhone Keon & Peak models.
 
