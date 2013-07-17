@@ -43,6 +43,5 @@ Then the jury went out of the room and I started to pack my things because I was
 
 So thats the story of how I got my GeeksPhone Peak all alone in a hackathon 285km far from home ;)
 
-{% img center https://pbs.twimg.com/media/BKh5_uWCQAAH9ny.jpg:large 500 500 'Winning a GeeksPhone Peak' 'Winning a GeeksPhone Peak' %}
 
 
