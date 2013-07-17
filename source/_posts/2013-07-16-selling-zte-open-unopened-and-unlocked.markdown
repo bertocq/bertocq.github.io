@@ -8,7 +8,7 @@ published: true
 description:
 keywords: zte open, firefox os, sell, ebay, auction
 ---
-> # Want to buy a ZTE Open? [Get this one on ebay!!](http://www.ebay.es/itm/321166175258)
+> # Want to buy a ZTE Open? [Get this one on ebay!!](http://www.ebay.es/itm/321166404309)
 
 The **box is unopened**, just bought in the shop. It will be delivered **with NCK code number for unlocking** with your own SIM card when its unboxed. Also **shipping Worldwide!!**
 
