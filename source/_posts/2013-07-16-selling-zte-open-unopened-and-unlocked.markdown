@@ -32,11 +32,5 @@ Box comes with:
 
 {% img center https://lh3.googleusercontent.com/-h_zRpgAcFuY/UeWka0lSBTI/AAAAAAAAEEs/qsl8p6XPucc/s512/P1080255.JPG 500 500 '' '' %}
 
-Here you can see the unboxing video (in Japanese!) from one happy customer [@j_jetstream](https://twitter.com/j_jetstream) from [Jetstream.bz](http://jetstream.bz/)
-<div class="centered">
-
-<iframe width="720" height="437" src="http://www.ustream.tv/embed/recorded/36245987?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
-<br /><a href="http://www.ustream.tv/recorded/36245987" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video streaming by Ustream</a>
-</div>
 
 > # [Get this one on ebay](http://www.ebay.es/itm/321169185930)
