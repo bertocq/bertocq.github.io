@@ -7,6 +7,10 @@ categories:
 published: false
 ---
 
+about the fucking bug of regeneration every seconds...
+
+
+
 > In this post I'll be explaning why and how I'm using octopress in this site, maybe it will help someone but mainly it will help me remember the process and changes in the future.
 
 It took me over a month to slowly understand what octopress is and what was the best option for me to install and deploy it.
