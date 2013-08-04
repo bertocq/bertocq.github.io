@@ -9,6 +9,8 @@ published: false
 
 about the fucking bug of regeneration every seconds...
 
+http://stackoverflow.com/questions/15591000/jekylls-auto-doesnt-work
+
 
 
 > In this post I'll be explaning why and how I'm using octopress in this site, maybe it will help someone but mainly it will help me remember the process and changes in the future.
