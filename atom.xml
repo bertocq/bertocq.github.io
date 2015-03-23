@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T02:36:57+01:00</updated>
+  <updated>2015-03-23T02:47:45+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -18,15 +18,15 @@
     <link href="http://bertocq.es/blog/long-time-no-see/"/>
     <updated>2015-03-22T00:01:00+01:00</updated>
     <id>http://bertocq.es/blog/long-time-no-see</id>
-    <content type="html"><![CDATA[<p>Almost two years has passed since my last post, and a lot happened that made me forgot about my blog: my family got bigger, we moved again 4 times until she landed a nice job (although not very stable), and months later I got another job on Web &amp; Mobile development in the same city (<a href="http://es.wikipedia.org/wiki/Albacete">Albacete</a>).</p>
+    <content type="html"><![CDATA[<p>Almost two years has passed since my last post, and a lot happened that made me forgot about my blog: my family got bigger with a girlfriend and a rescued spanish greyhound, we moved again 4 times until she landed a nice job (although not very stable), and months later I got another job on Web &amp; Mobile development in the same city (<a href="http://es.wikipedia.org/wiki/Albacete">Albacete</a>).</p>
 
 <p>I stayed 1 year and 4 months working at <a href="http://www.netberry.es/">Netberry</a>, it was good but I got stuck with PHP. And with &ldquo;stuck&rdquo; I mean that it sucked all my energy and didn&rsquo;t do any side projects or learning&hellip; just work &amp; trail running.</p>
 
-<p>Anyway I enjoyed it, improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>, some futile investigations about PHPExcel, SEPA data format form bank transfers and domiciliations&hellip;</p>
+<p>Anyway I enjoyed it, improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some futile investigations about PHPExcel, SEPA data format form bank transfers and domiciliations&hellip; worked on some cool and big projects, patched code at horrible ones&hellip; but definetly got tired of PHP and mobile dev environments.</p>
 
 <p>Also did a cool project involving IndexedDB and Cache Manifest to make a web application work entirely offline in the web browser of a technician working on Solar and Eolic plants&hellip; I&rsquo;ll write about it soon.</p>
 
-<p>On January her job crashed and we got lucky again, because she landed a 2 year job at Madrid, and I&rsquo;ll be again changing tracks on my carrer for good&hellip; Ruby here we go!</p>
+<p>On January we got lucky because she landed a great job at Madrid, moved again between citys, but this time will be for a long time, and I&rsquo;ll be changing tracks on my carrer for good&hellip; Ruby here we go!</p>
 ]]></content>
     
       <category scheme="http://bertocq.es/blog/categories/" term="personal" />
