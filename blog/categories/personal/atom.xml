@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Personal | BertoCQ]]></title>
+  <title><![CDATA[Category: personal | BertoCQ]]></title>
   <link href="http://bertocq.es/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T02:06:54+01:00</updated>
+  <updated>2015-03-23T02:35:44+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -14,17 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Back on track]]></title>
-    <link href="http://bertocq.es/blog/back-on-track/"/>
-    <updated>2013-06-26T22:25:00+02:00</updated>
-    <id>http://bertocq.es/blog/back-on-track</id>
-    <content type="html"><![CDATA[<p>It&rsquo;s has been a hell of a month, but finally difficulties all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting our things, setting up internet, gas, water and ligth contracts&hellip;). Emancipation is hard, but this was a master class!</p>
+    <title type="html"><![CDATA[Long time no see!]]></title>
+    <link href="http://bertocq.es/blog/long-time-no-see/"/>
+    <updated>2015-03-22T00:01:00+01:00</updated>
+    <id>http://bertocq.es/blog/long-time-no-see</id>
+    <content type="html"><![CDATA[<p>Almost two years has passed since my last post, and a lot happened that made me forgot about my blog: my family got bigger, we moved again 4 times until she landed a nice job (although not very stable), and months later I got another job on Web &amp; Mobile development in the same city (<a href="http://es.wikipedia.org/wiki/Albacete">Albacete</a>).</p>
 
-<p>So we are finally stable and I can get back to business.</p>
+<p>I stayed 1 year and 4 months working at <a href="http://www.netberry.es/">Netberry</a>, it was good but I got stuck with PHP. And with &ldquo;stuck&rdquo; I mean that it sucked all my energy and didn&rsquo;t do any side projects or learning&hellip; just work &amp; trail running.</p>
 
-<p>Meanwhile I was accepted as in the Firefox App Review Team, and wrote down two more ideas that hopefully will transform in nice FirefoxOS apps one day. Also bought an GeeksPhone Keon so the Peak doesn&rsquo;t feel alone anymore.</p>
+<p>Anyway I enjoyed it, improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>, some futile investigations about PHPExcel, SEPA data format form bank transfers and domiciliations&hellip;</p>
 
-<p><img class="center <a" src="href="https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg">https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg</a>" width="500" title="&lsquo;Geeksphone Keon and Peak&rsquo; &lsquo;Geeksphone Keon and Peak&rsquo;" ></p>
+<p>Also did a cool project involving IndexedDB and Cache Manifest to make a web application work entirely offline in the web browser of a technician working on Solar and Eolic plants&hellip; I&rsquo;ll write about it soon.</p>
+
+<p>On January her job crashed and we got lucky again, because she landed a 2 year job at Madrid, and I&rsquo;ll be again changing tracks on my carrer for good&hellip; Ruby here we go!</p>
 ]]></content>
   </entry>
   
