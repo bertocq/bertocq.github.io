@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T02:48:01+01:00</updated>
+  <updated>2015-03-23T22:24:10+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -18,15 +18,19 @@
     <link href="http://bertocq.es/blog/long-time-no-see/"/>
     <updated>2015-03-22T00:01:00+01:00</updated>
     <id>http://bertocq.es/blog/long-time-no-see</id>
-    <content type="html"><![CDATA[<p>Almost two years has passed since my last post, and a lot happened that made me forgot about my blog: my family got bigger with a girlfriend and a rescued spanish greyhound, we moved again 4 times until she landed a nice job (although not very stable), and months later I got another job on Web &amp; Mobile development in the same city (<a href="http://es.wikipedia.org/wiki/Albacete">Albacete</a>).</p>
+    <content type="html"><![CDATA[<p>A lot has happened since my last post that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete, until this January that she got an awesome opportunity at Madrid.</p>
 
-<p>I stayed 1 year and 4 months working at <a href="http://www.netberry.es/">Netberry</a>, it was good but I got stuck with PHP. And with &ldquo;stuck&rdquo; I mean that it sucked all my energy and didn&rsquo;t do any side projects or learning&hellip; just work &amp; trail running.</p>
+<h1>Netberry</h1>
 
-<p>Anyway I enjoyed it, improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some futile investigations about PHPExcel, SEPA data format form bank transfers and domiciliations&hellip; worked on some cool and big projects, patched code at horrible ones&hellip; but definetly got tired of PHP and mobile dev environments.</p>
+<p>In albacete I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es/">Netberry</a> during the year and half that we stayed. It was a good place to work, with a nice family feeling among the co-workers.</p>
 
-<p>Also did a cool project involving IndexedDB and Cache Manifest to make a web application work entirely offline in the web browser of a technician working on Solar and Eolic plants&hellip; I&rsquo;ll write about it soon.</p>
+<p>I improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some custom scripts with PHPExcel and SEPA data format form bank transfers and domiciliations&hellip; worked on some cool and big projects, patched legacy code&hellip; but definetly got tired of PHP.</p>
 
-<p>On January we got lucky because she landed a great job at Madrid, moved again between citys, but this time will be for a long time, and I&rsquo;ll be changing tracks on my carrer for good&hellip; Ruby here we go!</p>
+<p>Also I built a cool project involving IndexedDB and Cache Manifest to make a web application work entirely offline in the browser, so a technician working on a Solar or Eolic plant without connection could still use it&hellip; I&rsquo;ll write about it soon.</p>
+
+<h2>Whats next?</h2>
+
+<p>I&rsquo;m pretty tired of PHP and its environment, so since I&rsquo;m in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give an opportunity for Ruby to change my career and have fun again at work.</p>
 ]]></content>
     
       <category scheme="http://bertocq.es/blog/categories/" term="personal" />
