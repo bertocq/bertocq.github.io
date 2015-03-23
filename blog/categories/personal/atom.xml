@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Personal, | BertoCQ]]></title>
+  <title><![CDATA[Category: Personal | BertoCQ]]></title>
   <link href="http://bertocq.es/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T22:55:32+01:00</updated>
+  <updated>2015-03-23T22:56:53+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -35,6 +35,21 @@
 <p>Since we are living in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give <a href="https://www.ruby-lang.org">Ruby</a> a solid chance to change my career and have fun again at work.</p>
 
 <p>Many years has passed since I first tried it, and even got a good chance to work at <a href="http://rubyonrails.org/">RoR</a> (although life got in the way)&hellip; but third time&rsquo;s the charm, because this time I got everything on place.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Back on track]]></title>
+    <link href="http://bertocq.es/blog/back-on-track/"/>
+    <updated>2013-06-26T22:25:00+02:00</updated>
+    <id>http://bertocq.es/blog/back-on-track</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s has been a hell of a month, but finally difficulties all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting our things, setting up internet, gas, water and ligth contracts&hellip;). Emancipation is hard, but this was a master class!</p>
+
+<p>So we are finally stable and I can get back to business.</p>
+
+<p>Meanwhile I was accepted as in the Firefox App Review Team, and wrote down two more ideas that hopefully will transform in nice FirefoxOS apps one day. Also bought an GeeksPhone Keon so the Peak doesn&rsquo;t feel alone anymore.</p>
+
+<p><img class="center <a" src="href="https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg">https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg</a>" width="500" title="&lsquo;Geeksphone Keon and Peak&rsquo; &lsquo;Geeksphone Keon and Peak&rsquo;" ></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T22:55:32+01:00</updated>
+  <updated>2015-03-23T22:56:53+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -37,7 +37,7 @@
 <p>Many years has passed since I first tried it, and even got a good chance to work at <a href="http://rubyonrails.org/">RoR</a> (although life got in the way)&hellip; but third time&rsquo;s the charm, because this time I got everything on place.</p>
 ]]></content>
     
-      <category scheme="http://bertocq.es/blog/categories/" term="personal," />
+      <category scheme="http://bertocq.es/blog/categories/" term="personal" />
     
       <category scheme="http://bertocq.es/blog/categories/" term="ruby" />
     
