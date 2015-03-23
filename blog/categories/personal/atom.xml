@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Personal, | BertoCQ]]></title>
   <link href="http://bertocq.es/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T22:49:57+01:00</updated>
+  <updated>2015-03-23T22:55:32+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -18,21 +18,21 @@
     <link href="http://bertocq.es/blog/long-time-no-see/"/>
     <updated>2015-03-22T00:01:00+01:00</updated>
     <id>http://bertocq.es/blog/long-time-no-see</id>
-    <content type="html"><![CDATA[<p>A lot has happened since my last post that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete, and this January she got an awesome opportunity at Madrid that will last 4 or 5 years at least.</p>
+    <content type="html"><![CDATA[<p>A lot has happened since my last post, that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete for 2 years, and this January she got an awesome opportunity at Madrid that will last 4 or 5 years at least.</p>
 
 <h2>Netberry &amp; PHP tiredness</h2>
 
-<p>In Albacete I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es/">Netberry</a> during the year and half that we stayed. It was a good place to work, with a nice family feeling among the co-workers.</p>
+<p>During the year and half that we stayed in Albacet I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es/">Netberry</a>. It was a good place to work, with a nice family feeling among the co-workers, and made some great friends.</p>
 
 <p>In my first project I built a web application that works entirely <a href="http://diveintohtml5.info/offline.html">offline</a> in the browser, so a technician working on a Solar or Eolic plant without connection could still use it. I&rsquo;ll write about it soon&hellip; but basically used <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a> for the data, Javascript for the logic and <a href="http://en.wikipedia.org/wiki/Cache_manifest_in_HTML5">Cache Manifest</a> to let the files persist without internet.</p>
 
-<p>Also improved a lot my jQuery and Javascript, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some custom scripts with <a href="https://phpexcel.codeplex.com/">PHPExcel</a> and <a href="http://en.wikipedia.org/wiki/Single_Euro_Payments_Area">SEPA</a> data format form bank domiciliations&hellip; worked on some cool and big projects, patched legacy code at others&hellip;</p>
+<p>Also improved a lot my jQuery and Javascript, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some custom scripts with <a href="https://phpexcel.codeplex.com/">PHPExcel</a> and <a href="http://en.wikipedia.org/wiki/Single_Euro_Payments_Area">SEPA</a> data format form bank domiciliations&hellip; worked on some cool and big projects, patched legacy code at others&hellip; Even got the opportunity to evangelize about Git, Sublime Text and PhpStorm.</p>
 
-<p>But definetly got tired of PHP and it&rsquo;s environment after more than 10 years dealing with passing frameworks, customs CMS&rsquo;s and wordpress/drupal/etc&hellip;</p>
+<p>But definetly got tired of PHP and it&rsquo;s environment after more than 10 years dealing with passing frameworks, customs CMS&rsquo;s and Wordpress/Drupal/etc&hellip;</p>
 
 <h2>So whats next? Ruby!!</h2>
 
-<p>Since I&rsquo;m in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give <a href="https://www.ruby-lang.org">Ruby</a> a solid chance to change my career and have fun again at work.</p>
+<p>Since we are living in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give <a href="https://www.ruby-lang.org">Ruby</a> a solid chance to change my career and have fun again at work.</p>
 
 <p>Many years has passed since I first tried it, and even got a good chance to work at <a href="http://rubyonrails.org/">RoR</a> (although life got in the way)&hellip; but third time&rsquo;s the charm, because this time I got everything on place.</p>
 ]]></content>
