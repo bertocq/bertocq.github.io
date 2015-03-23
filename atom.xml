@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T22:35:46+01:00</updated>
+  <updated>2015-03-23T22:41:04+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -26,11 +26,13 @@
 
 <p>In my first project I built a web application that works entirely <a href="http://diveintohtml5.info/offline.html">offline</a> in the browser, so a technician working on a Solar or Eolic plant without connection could still use it&hellip; I&rsquo;ll write about it soon, but basically used <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a> for the data, Javascript the logic and <a href="http://en.wikipedia.org/wiki/Cache_manifest_in_HTML5">Cache Manifest</a> to let the files persist without internet.</p>
 
-<p>Also improved a lot my <a href="https://jquery.com">jQuery</a>, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some custom scripts with <a href="https://phpexcel.codeplex.com/">PHPExcel</a> and <a href="http://en.wikipedia.org/wiki/Single_Euro_Payments_Area">SEPA</a> data format form bank domiciliations&hellip; worked on some cool and big projects, patched legacy code&hellip; but definetly got tired of PHP and it&rsquo;s environment.</p>
+<p>Also improved a lot my jQuery and Javascript, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com/">Zend</a>), some custom scripts with <a href="https://phpexcel.codeplex.com/">PHPExcel</a> and <a href="http://en.wikipedia.org/wiki/Single_Euro_Payments_Area">SEPA</a> data format form bank domiciliations&hellip; worked on some cool and big projects, patched legacy code at others&hellip; but definetly got tired of PHP and it&rsquo;s environment after more than 10 years.</p>
 
 <h2>Whats next?</h2>
 
-<p>Since I&rsquo;m in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give an opportunity for Ruby to change my career and have fun again at work. Many years has passed since I first tried, and even got a second chance to work at RoR, but life got in the way&hellip; but third time&rsquo;s the charm.</p>
+<p>Since I&rsquo;m in Madrid and there are plenty of job offers for diverse positions, I&rsquo;ll finally give an opportunity for <a href="https://www.ruby-lang.org">Ruby</a> to change my career and have fun again at work.</p>
+
+<p>Many years has passed since I first tried it, and even got a second chance to work at <a href="http://rubyonrails.org/">RoR</a> (although life got in the way)&hellip; but third time&rsquo;s the charm, because this time I got everything on place.</p>
 ]]></content>
     
       <category scheme="http://bertocq.es/blog/categories/" term="personal," />
