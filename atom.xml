@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-23T22:56:53+01:00</updated>
+  <updated>2015-03-23T23:35:41+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -22,7 +22,7 @@
 
 <h2>Netberry &amp; PHP tiredness</h2>
 
-<p>During the year and half that we stayed in Albacet I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es/">Netberry</a>. It was a good place to work, with a nice family feeling among the co-workers, and made some great friends.</p>
+<p>During the year and half that we stayed in Albacete I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es/">Netberry</a>. It was a good place to work, with a nice family feeling among the co-workers, and made some great friends.</p>
 
 <p>In my first project I built a web application that works entirely <a href="http://diveintohtml5.info/offline.html">offline</a> in the browser, so a technician working on a Solar or Eolic plant without connection could still use it. I&rsquo;ll write about it soon&hellip; but basically used <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a> for the data, Javascript for the logic and <a href="http://en.wikipedia.org/wiki/Cache_manifest_in_HTML5">Cache Manifest</a> to let the files persist without internet.</p>
 
