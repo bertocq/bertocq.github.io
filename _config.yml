@@ -79,13 +79,13 @@ twitter_tweet_button: true
 linkedin_user: bertocq
 
 # Google +1
-google_plus_one: true
-google_plus_one_size: medium
+#google_plus_one: true
+#google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: bertocq
-googleplus_hidden: false
+#googleplus_user: bertocq
+#googleplus_hidden: false
 
 # Pinboard
 pinboard_user:
