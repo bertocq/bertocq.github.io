@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2013-08-04T18:05:05+02:00</updated>
+  <updated>2015-03-23T02:06:54+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -14,11 +14,31 @@
 
   
   <entry>
+    <title type="html"><![CDATA[My Ruby way]]></title>
+    <link href="http://bertocq.es/blog/my-ruby-way/"/>
+    <updated>2015-03-23T01:59:00+01:00</updated>
+    <id>http://bertocq.es/blog/my-ruby-way</id>
+    <content type="html"><![CDATA[<p>family got bigger, had to move again to another town</p>
+
+<p>stuck in php, with stuck i mean that i sucked all of my energy and didn&rsquo;t make any side projects or learning.. just work and sport</p>
+
+<p>anyway i enjoyed it, improved a lot my jquery, learned about custom framework internals, done a cool project for a offline website with indexeddb + cache and some futile investigations about phpexcel, SEPA format (bank transfer and domiciliation) and stuff</p>
+
+<p>so now madrid, cool friends that work on ruby, 2 times tried, the third goes teh victory</p>
+
+<p>ill write about my way to master ruby, and then rails and the rest of the environment ¿why another? because im not the first but neither the last, maybe this will help someone, or at least me to see my improvements</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="ruby" />
+    
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Selling ZTE Open unopened &amp; unlocked]]></title>
     <link href="http://bertocq.es/blog/selling-zte-open-unopened-and-unlocked/"/>
     <updated>2013-07-16T22:12:00+02:00</updated>
     <id>http://bertocq.es/blog/selling-zte-open-unopened-and-unlocked</id>
-    <content type="html"><![CDATA[<blockquote><h2>I&rsquo;m out of stock, and won&rsquo;t be selling ZTE Open anymore.</h2></blockquote>
+    <content type="html"><![CDATA[<blockquote><h2>I&rsquo;m out of stock, <a href="mailto:bertocq@gmail.com">contact me if you want one</a> and I&rsquo;ll try to get more.</h2></blockquote>
 
 <p>You could search <a href="http://www.ebay.com/sch/Cell-Phones-Smartphones-/9355/i.html?_nkw=zte+open&amp;LH_PrefLoc=2">ZTE Open on ebay</a> or take a look at the news about the lastest devices with FirefoxOS at <a href="http://firefoxosguide.com/">FirefoxOSGuide</a>.</p>
 

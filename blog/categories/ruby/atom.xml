@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ruby | BertoCQ]]></title>
+  <link href="http://bertocq.es/blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://bertocq.es/"/>
+  <updated>2015-03-23T02:06:54+01:00</updated>
+  <id>http://bertocq.es/</id>
+  <author>
+    <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
+    <email><![CDATA[bertocq@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Ruby way]]></title>
+    <link href="http://bertocq.es/blog/my-ruby-way/"/>
+    <updated>2015-03-23T01:59:00+01:00</updated>
+    <id>http://bertocq.es/blog/my-ruby-way</id>
+    <content type="html"><![CDATA[<p>family got bigger, had to move again to another town</p>
+
+<p>stuck in php, with stuck i mean that i sucked all of my energy and didn&rsquo;t make any side projects or learning.. just work and sport</p>
+
+<p>anyway i enjoyed it, improved a lot my jquery, learned about custom framework internals, done a cool project for a offline website with indexeddb + cache and some futile investigations about phpexcel, SEPA format (bank transfer and domiciliation) and stuff</p>
+
+<p>so now madrid, cool friends that work on ruby, 2 times tried, the third goes teh victory</p>
+
+<p>ill write about my way to master ruby, and then rails and the rest of the environment ¿why another? because im not the first but neither the last, maybe this will help someone, or at least me to see my improvements</p>
+]]></content>
+  </entry>
+  
+</feed>
