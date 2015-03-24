@@ -7,15 +7,12 @@ sharing: false
 footer: true
 ---
 
-My name is Alberto Calderón Queimadelos, I'm a mobile & web developer from Spain.
+Hello I'm Alberto Calderón Queimadelos, a web developer from Spain.
 
-I'm currently working on two personal projects with Firefox OS but still open for freelance projects as always.
+I've been developing websites since I was a teenager, I enjoy the process of analyzing the needs, designing the best solution, planning ahead, and making it work for everyone with a user agent.
 
-I've used native iOS and Android on mobile development, but now I'm mainly working with Firefox OS since I won a [Geeksphone Peak in the Bilbao FirefoxOS Hackathon](blog/winning-a-firefox-os-hackathon).
+Although I've experience in front-end, mobile (native & hybrid), and R+D+I... the back-end is my home when the coding comes along. With 10+ years on PHP, I'm in the path to master Ruby an its environment in a new phase.
 
-On web dev I've experience on both front (HTML5 + CSS3 + Javascript) and back-end (PHP, J2EE and RoR).
+Check my [Linkedin profile](http://www.linkedin.com/in/bertocq "Bertocq's Linkedin profile") for more details.
 
-<b>Email:</b> bertocq@gmail.com
-<b>Phone:</b> (+034) 617 988 915
-
-> ** Will upload my resumé soon, meanwhile take a look at my [Linkedin profile](http://www.linkedin.com/in/bertocq "Bertocq's Linkedin profile") **
+You can reach me at [@bertocq](https://twitter.com/bertocq) or with bertocq@gmail.com
