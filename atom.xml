@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-24T02:02:18+01:00</updated>
+  <updated>2015-03-24T02:13:39+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -38,6 +38,8 @@
 ]]></content>
     
       <category scheme="http://bertocq.es/blog/categories/" term="personal" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="ruby" />
     
   </entry>
   
