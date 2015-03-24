@@ -3,11 +3,12 @@ layout: post
 title: "Long time no see!"
 date: 2015-03-22 00:01
 comments: true
-categories: Personal
+categories: [Personal, Ruby]
 published: true
 description: Updating my status, almost 2 years since my last post
-keywords: Personal
+keywords: personal, ruby, php, madrid
 ---
+
 A lot has happened since my last post, that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete for 2 years, and this January she got an awesome opportunity at Madrid that will last 4-5 years at least.
 
 ##Netberry & PHP tiredness
