@@ -8,14 +8,18 @@ published: true
 description: Updating my status, almost 2 years since my last post
 keywords: Personal
 ---
+A lot has happened since my last post, that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete for 2 years, and this January she got an awesome opportunity at Madrid that will last 4-5 years at least.
 
-Almost two years has passed since my last post, and a lot happened that made me forgot about my blog: my family got bigger with a girlfriend and a rescued spanish greyhound, we moved again 4 times until she landed a nice job (although not very stable), and months later I got another job on Web & Mobile development in the same city ([Albacete](http://es.wikipedia.org/wiki/Albacete)).
+##Netberry & PHP tiredness
+During the year and half that we stayed in Albacete I got a job on Web & Mobile development at [Netberry](http://www.netberry.es). It was a good place to work, with a nice family feeling among the co-workers, and made some great friends.
 
-I stayed 1 year and 4 months working at [Netberry](http://www.netberry.es/), it was good but I got stuck with PHP. And with "stuck" I mean that it sucked all my energy and didn't do any side projects or learning... just work & trail running.
+In my first project I built a web application that works [entirely offline](http://diveintohtml5.info/offline.html) in the browser, so a technician working on a solar or eolic plant without connection could still use it. I’ll write about it soon… but basically used [IndexedDB](http://www.w3.org/TR/IndexedDB/) for the data, Javascript for the logic and [Cache Manifest](http://en.m.wikipedia.org/wiki/Cache_manifest_in_HTML5) to let the files persist without internet.
 
-Anyway I enjoyed it, improved a lot my jQuery, learned about framework internals (we used a custom PHP framework built on top of [Zend](http://framework.zend.com/)), some futile investigations about PHPExcel, SEPA data format form bank transfers and domiciliations... worked on some cool and big projects, patched code at horrible ones... but definetly got tired of PHP and mobile dev environments.
+Also improved a lot my [jQuery](https://jquery.com) and Javascript, learned about framework internals (we used a custom PHP framework built on top of [Zend](http://framework.zend.com))), some custom scripts with [PHPExcel](https://phpexcel.codeplex.com) and [SEPA](http://en.wikipedia.org/wiki/Single_Euro_Payments_Area) data format form bank domiciliations… worked on some cool and big projects, patched legacy code at others… Even got the opportunity to evangelize about [Git](http://git-scm.com), [SublimeText](http://www.sublimetext.com) and [PhpStorm](https://www.jetbrains.com/phpstorm).
 
-Also did a cool project involving IndexedDB and Cache Manifest to make a web application work entirely offline in the web browser of a technician working on Solar and Eolic plants... I'll write about it soon.
+But definetly got tired of PHP and it’s environment after more than 10 years dealing with passing frameworks, customs CMS’s and Wordpress/Drupal/etc…
 
-On January we got lucky because she landed a great job at Madrid, moved again between citys, but this time will be for a long time, and I'll be changing tracks on my carrer for good... Ruby here we go!
+##So whats next? Ruby!!
+Since we are living in Madrid and there are plenty of job offers for diverse positions, I’ll finally give [Ruby](https://www.ruby-lang.org) a solid chance to change my career and have fun again at work.
 
+Many years has passed since I first tried it, and even got a good chance to work with [RoR](http://rubyonrails.org) (although life got in the way)… but third time’s the charm, because this time I got everything on place.
