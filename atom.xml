@@ -4,7 +4,7 @@
   <title><![CDATA[BertoCQ]]></title>
   <link href="http://bertocq.es/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-28T23:01:42+01:00</updated>
+  <updated>2015-03-28T23:32:18+01:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -20,13 +20,17 @@
     <id>http://bertocq.es/blog/my-ruby-way</id>
     <content type="html"><![CDATA[<h2>The discovery</h2>
 
-<p>I first discovered Ruby on 2008 at a summer university course from the guys of <a href="http://simplelogica.net/">Simplelogica</a>, and also Rails with the famous vimeo video &ldquo;Build a blog in 15 minutes&rdquo;. But I lost interest since I was comfortable making a living with PHP and only a few hosting services supported ruby. Anyway I made some friends from Simplelogica like <a href="http://demimismo.com">David Arango</a> that has kept me aware of the community through the years.</p>
+<p>I first discovered Ruby on 2008 at a summer university course from the guys of <a href="http://simplelogica.net/">Simplelogica</a>, and also Rails with the famous vimeo video &ldquo;Build a blog in 15 minutes&rdquo;.</p>
+
+<p>But I lost interest since I was comfortable making a living with PHP and only a few hosting services supported Ruby. Anyway I made some friends from Simplelogica like <a href="http://demimismo.com">David Arango</a> that has kept me aware of the community through the years.</p>
 
 <h2>The fascination</h2>
 
-<p>On 2012 I tried a second time, but this time seriously. I co-founded an startup with a Ruby on Rails trainer, so he took my under his wing to become the second back-end developer, I read some books and did online tutorials and a month later started working from scratch, learning about the scaffolding, the API, multitenancy&hellip; almost all the time was analysis &amp; design, but the coding times where fun and finally got my attention over Ruby and its awesome environment of gems, frameworks, and people (the most important).</p>
+<p>On 2012 I gave it another try, but this time seriously. I co-founded an startup with a Ruby on Rails trainer, so he took my under his wing to become the second back-end developer.</p>
 
-<p>But hard times come when the iOs developer left and I left the back-end to master in 3 months Objective-C to create the iPad app prototype that used the rails api as back-end&hellip; some months later all the rest felt apart and our adventure ended.</p>
+<p>I read some books, completed online tutorials, and a month later started working from scratch on the project. Learning about the scaffolding, the API, multitenancy&hellip; almost all the time was analysis &amp; design, but the coding times where fun and finally got my attention over Ruby and its awesome environment of gems, frameworks, and community (the most important).</p>
+
+<p>But hard times came when the iOs developer left us, so in an effort to save the situation I tried to master Objective-C in 3 months to create the iPad app prototype. But some months later all the rest felt apart and our adventure ended, sending me back to PHP just for the money.</p>
 
 <h2>The mature decision</h2>
 
@@ -34,15 +38,13 @@
 
 <p>I don&rsquo;t want a flame PHP vs Ruby, everything as a con and a pro depending of what you want them for, this is just my opinion about what I need in a programming language.</p>
 
-<p>I&rsquo;ve learnt almost 7 PHP frameworks, and I&rsquo;ve been bretrayed by almost all of them, most notably by PradoPHP (the dad of Yii), and altought Yii, Laravel and Phalcon promise a good future, I&rsquo;m really tired of the ecosystem.</p>
+<p>I&rsquo;ve learnt almost 7 PHP frameworks, and I&rsquo;ve been betrayed by almost all of them, most notably by PradoPHP (the dad of Yii), and altought Yii, Laravel and Phalcon promise a good future, I&rsquo;m really tired of the ecosystem.</p>
 
-<p>Maybe my appreciation of Ruby and its community being better for me than PHP its just a &ldquo;neighbours grass is always greener&rdquo;, or maybe its just that I&rsquo;m really tired of PHP, like I got tired just with 2 years of enterprise Java.</p>
-
-<p>So I&rsquo;ve been studying and practicing Ruby for almost a month, and I really like the language, and the gem ecosystem, but the most.. the community. Just it a month I contributed to Madrid.rb website with a scrapping file for their old wiki, and with Civio and OpenCorporates, and it was really fun.</p>
+<p>So I&rsquo;ve been studying and practicing Ruby for almost a month, and I really like the language, and the gem ecosystem, but the most.. the community. Just in a month I <a href="https://twitter.com/madridrb/status/580818207105261568">contributed to Madrid.rb</a> website with a scrapping file for their old wiki, and <a href="https://twitter.com/bertocq/status/581745924193587200">completed a turbot</a> in Civio&rsquo;s #flashhack for OpenCorporates, and it was all really fun and great for learning.</p>
 
 <h2>What now?</h2>
 
-<p>I know google is full of &ldquo;How to learn Ruby&rdquo; and &ldquo; &#8220;How I switched paths to Ruby from X&rdquo;, so why should I write about it anyway?</p>
+<p>I know google is full of &ldquo;How to learn Ruby&rdquo; and &ldquo;How I switched paths to Ruby from X&rdquo;, so why should I write about it anyway?</p>
 
 <p>Well I&rsquo;m not the first to walk this path, but neither will be the last, so just because it will be useful for someone, or to my own pleasure reading this 10 years in the future&hellip; I&rsquo;ll write my path to master Ruby, Rails and all the things around.</p>
 ]]></content>
