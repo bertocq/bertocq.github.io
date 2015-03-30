@@ -262,6 +262,12 @@ body {
 				#sub-nav{
 					display: block;
 				}
+				.profilepic {
+					display:none;
+					img {
+						display:none;
+					}
+				}
 				#main-nav {
 						ul {
 							display: block;
