@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Hackathon | BertoCQ]]></title>
   <link href="http://bertocq.es/blog/categories/hackathon/atom.xml" rel="self"/>
   <link href="http://bertocq.es/"/>
-  <updated>2015-03-30T11:34:09+02:00</updated>
+  <updated>2015-03-30T11:35:30+02:00</updated>
   <id>http://bertocq.es/</id>
   <author>
     <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
@@ -24,7 +24,7 @@
 
 <p>The talks where great and inspiring, speakers <a href="https://twitter.com/jmcantera">@jmcantera</a> and <a href="https://github.com/crdlc">Cristian Rodriguez</a> I still had some memories from the talk on the past SpainJS conferences where I was able to touch the first prototype:</p>
 
-<p> <img class="center <a" src="href="http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg">http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg</a>" width="500" height="500" title="&lsquo;Winning a GeeksPhone Peak&rsquo; &lsquo;Winning a GeeksPhone Peak&rsquo;" ></p>
+<p> {% img center <a href="http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg">http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg</a> 500 500 &lsquo;Winning a GeeksPhone Peak&rsquo; &lsquo;Winning a GeeksPhone Peak&rsquo; %}</p>
 
 <p>Some GeeksPhone devices where given as prize for technical questions but it felt almost random.</p>
 
@@ -42,14 +42,10 @@
 
 <p>The first problem was the FirefoxOS simulator, that didn&rsquo;t seem to be able to handle the Alarms WebApi and until I found that hitting Command+R the app wash refreshed so I didn&rsquo;t need to push it again and again. Then I made a simple visor.html to test the visual styles on the browser more quickly:</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Simple iframe to test the looks on the browser </span></figcaption>
- <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;/p&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="nt">&lt;p&gt;&lt;iframe</span> <span class="na">src=</span><span class="s">&quot;index.html&quot;</span> <span class="na">width=</span><span class="s">&quot;320px&quot;</span> <span class="na">height=</span><span class="s">&quot;480px&quot;</span> <span class="nt">/&gt;</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% codeblock Simple iframe to test the looks on the browser lang:html %}</p>
+
+<p><iframe src="index.html" width="320px" height="480px" />
+{% endcodeblock %}</p>
 
 <p>After 3 hours the time ran out and each group made a quick presentation in 1-2 minutes, we saw great but incompleted ideas, some others fully developed but a bit useful, and the greater ones where just awesome like their whatsapp clone Firetalk!</p>
 
