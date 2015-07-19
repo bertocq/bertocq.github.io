@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: github | BertoCQ]]></title>
+  <link href="http://bertocq.es/blog/categories/github/atom.xml" rel="self"/>
+  <link href="http://bertocq.es/"/>
+  <updated>2015-03-28T23:01:42+01:00</updated>
+  <id>http://bertocq.es/</id>
+  <author>
+    <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
+    <email><![CDATA[bertocq@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello (Octopress) World!]]></title>
+    <link href="http://bertocq.es/blog/hello-world/"/>
+    <updated>2013-05-24T01:32:00+02:00</updated>
+    <id>http://bertocq.es/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>My last blog died because I didn&rsquo;t have the time and motivation to write, mostly because I was tired of installing and modding wordpress for freelance jobs. Long ago I read some articles about Octopress and since many of the blogs I check use it I&rsquo;m giving it a try.</p>
+
+<p>So here I am, getting back on business, interesting and life-changing things happened to me this year and I think a have enough to write about the past, present and future. I&rsquo;ll be mainly writting about professional on mobile and web development, personal things normally go on facebook lately.</p>
+
+<p>I&rsquo;ll start with some plugins and theme customizations in my spare time. Welcome!</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -15,11 +15,11 @@ I first heard about Ruby on **2008** at a summer university course from the [Sim
 But I lost interest since I was comfortable making a living with PHP and only a few hosting services supported Ruby. Anyway I made some friends from Simplelogica like [David Arango](https://twitter.com/demimismo) that has kept me aware of the Ruby scene through the years.
 
 ## The fascination
-On **2012** I gave it another try, but this time seriously. I [co-founded an startup](http://www.neblic.com/) with a Ruby on Rails trainer, so he took my under his wing to become the second back-end developer.
+On **2012** I gave it another try, but this time seriously. I [co-founded an startup](http://www.neblic.com/) with a Ruby on Rails trainer, so he took me under his wing to become the second back-end developer.
 
 I read [some](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0) [books](https://pragprog.com/book/rails4/agile-web-development-with-rails-4), completed [online tutorials](https://www.codeschool.com/users/146492), and a month later started working from scratch on the project. Learning about the scaffolding, the API, multitenancy... most of the time we did analysis & design, but the coding times where fun and finally got my attention over Ruby and its awesome environment and community.
 
-But hard times came when the iOS developer left us, so in an effort to save the situation I set Ruby aside and tried to master Objective-C in 3 months to create the [iPad app prototype](https://github.com/bertocq/nMenu). But some months later all felt apart and our adventure ended, sending me back to PHP just for the money.
+But hard times came when the iOS developer left us, so in an effort to save the situation I set Ruby aside and tried to master Objective-C in 3 months to create the [iPad app prototype](https://github.com/bertocq/nMenu). Some months later all felt apart and our adventure ended, sending me back to PHP just for the money.
 
 ## The mature decision
 

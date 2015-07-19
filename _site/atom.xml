@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[BertoCQ]]></title>
+  <link href="http://bertocq.es/atom.xml" rel="self"/>
+  <link href="http://bertocq.es/"/>
+  <updated>2015-03-28T23:01:42+01:00</updated>
+  <id>http://bertocq.es/</id>
+  <author>
+    <name><![CDATA[Alberto Calderon Queimadelos @bertocq]]></name>
+    <email><![CDATA[bertocq@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Ruby way]]></title>
+    <link href="http://bertocq.es/blog/my-ruby-way/"/>
+    <updated>2015-03-28T23:59:00+01:00</updated>
+    <id>http://bertocq.es/blog/my-ruby-way</id>
+    <content type="html"><![CDATA[<h2>The discovery</h2>
+
+<p>I first discovered Ruby on 2008 at a summer university course from the guys of <a href="http://simplelogica.net/">Simplelogica</a>, and also Rails with the famous vimeo video &ldquo;Build a blog in 15 minutes&rdquo;. But I lost interest since I was comfortable making a living with PHP and only a few hosting services supported ruby. Anyway I made some friends from Simplelogica like <a href="http://demimismo.com">David Arango</a> that has kept me aware of the community through the years.</p>
+
+<h2>The fascination</h2>
+
+<p>On 2012 I tried a second time, but this time seriously. I co-founded an startup with a Ruby on Rails trainer, so he took my under his wing to become the second back-end developer, I read some books and did online tutorials and a month later started working from scratch, learning about the scaffolding, the API, multitenancy&hellip; almost all the time was analysis &amp; design, but the coding times where fun and finally got my attention over Ruby and its awesome environment of gems, frameworks, and people (the most important).</p>
+
+<p>But hard times come when the iOs developer left and I left the back-end to master in 3 months Objective-C to create the iPad app prototype that used the rails api as back-end&hellip; some months later all the rest felt apart and our adventure ended.</p>
+
+<h2>The mature decision</h2>
+
+<p>So 2 months ago we moved from Albacete to Madrid, almost the same time that I turned a 10 years old PHP developer, and all become so obvious.</p>
+
+<p>I don&rsquo;t want a flame PHP vs Ruby, everything as a con and a pro depending of what you want them for, this is just my opinion about what I need in a programming language.</p>
+
+<p>I&rsquo;ve learnt almost 7 PHP frameworks, and I&rsquo;ve been bretrayed by almost all of them, most notably by PradoPHP (the dad of Yii), and altought Yii, Laravel and Phalcon promise a good future, I&rsquo;m really tired of the ecosystem.</p>
+
+<p>Maybe my appreciation of Ruby and its community being better for me than PHP its just a &ldquo;neighbours grass is always greener&rdquo;, or maybe its just that I&rsquo;m really tired of PHP, like I got tired just with 2 years of enterprise Java.</p>
+
+<p>So I&rsquo;ve been studying and practicing Ruby for almost a month, and I really like the language, and the gem ecosystem, but the most.. the community. Just it a month I contributed to Madrid.rb website with a scrapping file for their old wiki, and with Civio and OpenCorporates, and it was really fun.</p>
+
+<h2>What now?</h2>
+
+<p>I know google is full of &ldquo;How to learn Ruby&rdquo; and &ldquo; &#8220;How I switched paths to Ruby from X&rdquo;, so why should I write about it anyway?</p>
+
+<p>Well I&rsquo;m not the first to walk this path, but neither will be the last, so just because it will be useful for someone, or to my own pleasure reading this 10 years in the future&hellip; I&rsquo;ll write my path to master Ruby, Rails and all the things around.</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="ruby" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Long time no see!]]></title>
+    <link href="http://bertocq.es/blog/long-time-no-see/"/>
+    <updated>2015-03-22T00:01:00+01:00</updated>
+    <id>http://bertocq.es/blog/long-time-no-see</id>
+    <content type="html"><![CDATA[<p>A lot has happened since my last post, that made me completely forget the blog. My family got bigger with a girlfriend and a rescued greyhound, we moved 3 more times until she landed a nice job in Albacete for 2 years, and this January she got an awesome opportunity at Madrid that will last 4-5 years at least.</p>
+
+<h2>Netberry &amp; PHP tiredness</h2>
+
+<p>During the year and half that we stayed in Albacete I got a job on Web &amp; Mobile development at <a href="http://www.netberry.es">Netberry</a>. It was a good place to work, with a nice family feeling among the co-workers, and made some great friends.</p>
+
+<p>In my first project I built a web application that works <a href="http://diveintohtml5.info/offline.html">entirely offline</a> in the browser, so a technician working on a solar or eolic plant without connection could still use it. I’ll write about it soon… but basically used <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB</a> for the data, Javascript for the logic and <a href="http://en.m.wikipedia.org/wiki/Cache_manifest_in_HTML5">Cache Manifest</a> to let the files persist without internet.</p>
+
+<p>Also improved a lot my <a href="https://jquery.com">jQuery</a> and Javascript, learned about framework internals (we used a custom PHP framework built on top of <a href="http://framework.zend.com">Zend</a>)), some custom scripts with <a href="https://phpexcel.codeplex.com">PHPExcel</a> and <a href="http://en.wikipedia.org/wiki/Single_Euro_Payments_Area">SEPA</a> data format form bank domiciliations… worked on some cool and big projects, patched legacy code at others… Even got the opportunity to evangelize about <a href="http://git-scm.com">Git</a>, <a href="http://www.sublimetext.com">SublimeText</a> and <a href="https://www.jetbrains.com/phpstorm">PhpStorm</a>.</p>
+
+<p>But definetly got tired of PHP and it’s environment after more than 10 years dealing with passing frameworks, customs CMS’s and Wordpress/Drupal/etc…</p>
+
+<h2>So whats next? Ruby!!</h2>
+
+<p>Since we are living in Madrid and there are plenty of job offers for diverse positions, I’ll finally give <a href="https://www.ruby-lang.org">Ruby</a> a solid chance to change my career and have fun again at work.</p>
+
+<p>Many years has passed since I first tried it, and even got a good chance to work with <a href="http://rubyonrails.org">RoR</a> (although life got in the way)… but third time’s the charm, because this time I got everything on place.</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="personal" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="ruby" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Selling ZTE Open unopened &amp; unlocked]]></title>
+    <link href="http://bertocq.es/blog/selling-zte-open-unopened-and-unlocked/"/>
+    <updated>2013-07-16T22:12:00+02:00</updated>
+    <id>http://bertocq.es/blog/selling-zte-open-unopened-and-unlocked</id>
+    <content type="html"><![CDATA[<blockquote><h2>I&rsquo;m out of stock, and won&rsquo;t be selling ZTE Open anymore.</h2></blockquote>
+
+<p>You could search <a href="http://www.ebay.com/sch/Cell-Phones-Smartphones-/9355/i.html?_nkw=zte+open&amp;LH_PrefLoc=2">ZTE Open on ebay</a> or take a look at the news about the lastest devices with FirefoxOS at <a href="http://firefoxosguide.com/">FirefoxOSGuide</a>.</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="selling" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="zte-open" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ZTE Open unboxing]]></title>
+    <link href="http://bertocq.es/blog/zte-open-unboxing/"/>
+    <updated>2013-07-03T16:51:00+02:00</updated>
+    <id>http://bertocq.es/blog/zte-open-unboxing</id>
+    <content type="html"><![CDATA[<h2>Getting the device</h2>
+
+<p>This Monday I read about <a href="http://firefoxosguide.com/firefox-os/zte-open-to-launch-tomorrow-in-spain-venezuela-colombia-on-15th-july.html/" title="Movistar zte open launch">Movistar launching the ZTE Open</a>, so I rushed to the nearest <a href="http://www.movistar.es" title="Movistar">Movistar</a> shop to ask when they will receive and how many units, but they didn&rsquo;t even know what Firefox OS was about!.</p>
+
+<p>I had to show them my <a href="http://shop.geeksphone.com/en/3-phones" title="Geeksphone mobiles">GeeksPhone Keon and Peak</a> and make a quick explanation about the origins and purpose of the new operative system and devices. They promised to call me when the devices arrived and I offered to give them a more extended talk anytime.</p>
+
+<p>And this morning my Google Nexus rang with good news! they received only one unit and luckyly I was the first in line :).</p>
+
+<p>Since I&rsquo;ll be using it for development only, I chose the voice-only plan &ldquo;Contrato 6&rdquo; that costs 6€/month (the minimum spending) because WiFi will be enough.</p>
+
+<p><img class="center" src="https://lh5.googleusercontent.com/-J_ZmhGWhG8M/UdRuQRbysOI/AAAAAAAAD-0/JjFW0YrvCDg/w907-h680-no/P1080104.JPG" width="500" height="500" title="s made of thin cardboard but seems cool" alt="The box it"></p>
+
+<hr />
+
+<h2>Unboxing</h2>
+
+<p>As expected the device isn&rsquo;t unlocked, but since the contract doesn&rsquo;t have permanence obligations I was able to get the NCK code to unlock the device by calling the support number 1004, and now I can use it with my <a href="https://www.pepephone.com/" title="Pepephone">Pepephone</a> simcard without problems.</p>
+
+<p>It comes with a Movistar logo on it&rsquo;s back and in a their brand blue color. Also they added a &ldquo;Mi Movistar&rdquo; app to access the client panel, and a Settings menu under &lsquo;Operator Services&rsquo; to open the operator chat and email custom services.</p>
+
+<p><img class="center" src="https://lh4.googleusercontent.com/-Y2zQX5Q4AVM/UdRuP_bfxmI/AAAAAAAAD-o/sZGtC0vywGY/w907-h680-no/P1080115.JPG" width="500" height="500" title="There seems to be a mix of logos still between desktop and mobile" alt="There seems to be a mix of logos still between desktop and mobile"></p>
+
+<p>The box remembers me of the Geeksphone Peak&rsquo;s, although this one has better quality. The inside of the top comes with a cool Firefox OS logo.</p>
+
+<p><img class="center" src="https://lh4.googleusercontent.com/-H4rIlPvX5G8/UdRuQ5pTc_I/AAAAAAAAD_E/xmu7ZqLSz1k/w907-h680-no/P1080120.JPG" width="500" height="500" title="I would love to have a sticker with this logo" alt="I would love to have a sticker with this logo"></p>
+
+<p>The accesories seems to have worst quality than the Geeksphone ones, even the charger, but indestructibles anyway.</p>
+
+<p><img class="center" src="https://lh3.googleusercontent.com/-ki0kfByT3_Y/UdRuRoPzPyI/AAAAAAAAD_Q/7zpyLvL_8KE/w907-h680-no/P1080122.JPG" width="500" height="500" title="Charger, earphones, usb cable, and paper stuff" alt="Charger, earphones, usb cable, and paper stuff"></p>
+
+<p>After basic configuration updates kicked in! The basic pack its enough for starters, although the game pack doesn&rsquo;t fit my taste. In the list you can uncheck updates.</p>
+
+<p><img class="center" src="https://lh5.googleusercontent.com/-SrFJI-saUSs/UdRuR8579eI/AAAAAAAAD_M/aFP3kjL1IGY/w987-h740-no/P1080125.JPG" width="500" height="500" title="You can uncheck the updates you dont want now" alt="You can uncheck the updates you dont want now"></p>
+
+<p>A quick comparation with the GeeksPhone Keon &amp; Peak models.</p>
+
+<p><img class="center" src="https://lh4.googleusercontent.com/-o9jojSrtCTY/UdRuTmfoIxI/AAAAAAAAD_s/KV_d_guj2zE/w907-h680-no/P1080144.JPG" width="500" height="500" title="A bit more compact than the Keon" alt="A bit more compact than the Keon"></p>
+
+<p>My Google Nexus feeling his future death.</p>
+
+<p><img class="center" src="https://lh3.googleusercontent.com/-mPgHhOEQqVg/UdRuUUl0ROI/AAAAAAAAD_0/YY_r9v1UMVk/w907-h680-no/P1080152.JPG" width="500" height="500" title="Fits better in my pockets" alt="Fits better in my pockets"></p>
+
+<hr />
+
+<h2>Testing</h2>
+
+<p>To test the microphone and video recording indoors I took a <a href="www.youtube.com/watch?v=x5Ap_CSviQM">quick video test</a> with &lsquo;Moby Dick&rsquo; by Led Zeppelin on the background:</p>
+
+<div class="centered">
+<iframe width="500" height="360" src="http://bertocq.es//www.youtube.com/embed/x5Ap_CSviQM?rel=0"  allowfullscreen></iframe>
+</div>
+
+
+<p><a href="www.youtube.com/watch?v=9PVHuJ6A86U">One more video outdoors</a> to see how the camera adapted to the changes in luminosity with bright sun:</p>
+
+<div class="centered">
+<iframe width="500" height="360" src="http://bertocq.es//www.youtube.com/embed/9PVHuJ6A86U?rel=0"  allowfullscreen></iframe>
+</div>
+
+
+<p>And a sample photo indoor:</p>
+
+<p><img class="center" src="https://lh6.googleusercontent.com/-pop8B2A7fDc/UdVM4G-cTEI/AAAAAAAAEBY/ehl_tQGjkr8/s512/IMG_0008.jpg" width="500" height="500" title=" I love the inside of the box" alt="I love the inside of the box"></p>
+
+<p>and outdoors:</p>
+
+<p><img class="center" src="https://lh4.googleusercontent.com/-Gt1iuh3VvBk/UdawfhEPj0I/AAAAAAAAEC0/bnPVzORoEWs/s720/IMG_0036.jpg" width="500" height="500" title="Fun fact: thats a Police Station!" alt="Fun fact: thats a Police Station!"></p>
+
+<p>The main problem interacting with the device is the touch screen, I can&rsquo;t hardly type without failing 1 of 3 letters, it doesn&rsquo;t feel as accurate as my Google Nexus, although the Keon an Peak had similar problems in my experience.</p>
+
+<hr />
+
+<h2>Review</h2>
+
+<p>Well there are actually lots of good unboxing post and videos if you want to take a deeper view on the mobile device (all in Spanish):</p>
+
+<ul>
+<li><a href="http://blogthinkbig.com/unboxing-zte-open/">http://blogthinkbig.com/unboxing-zte-open/</a></li>
+<li><a href="http://www.movilzona.es/2013/07/01/unboxing-y-toma-de-contacto-en-video-del-zte-open-de-movistar/">http://www.movilzona.es/2013/07/01/unboxing-y-toma-de-contacto-en-video-del-zte-open-de-movistar/</a></li>
+<li><a href="http://aplicacionesfirefox.es/zte-open-el-primer-movil-de-movistar-con-firefox-os/">http://aplicacionesfirefox.es/zte-open-el-primer-movil-de-movistar-con-firefox-os/</a></li>
+<li><a href="http://www.wayerless.com/2013/07/zte-open-a-primera-vista/">http://www.wayerless.com/2013/07/zte-open-a-primera-vista/</a></li>
+</ul>
+
+
+<div class="centered">
+<iframe width="500" height="480" src="http://bertocq.es//www.youtube.com/embed/Wjs3_hY29Q8?rel=0" allowfullscreen></iframe>
+</div>
+
+
+<hr />
+
+<h2>Thoughts</h2>
+
+<p>The ZTE Open its very similar on the outside and inside <a href="http://versus.com/en/geeksphone-keon-vs-zte-open">compared with the GeeksPhone Keon</a> but its still the only one Firefox OS device for the normal user. I hope Movistar&rsquo;s fork of FirefoxOS will not divert too much from the rest of mobile operators, just to avoid the damm fragmentation that we got on Android right now.</p>
+
+<p>I see it as a feature phone killer for users like my parents: just need the device to be able to call, set alarms, see the calendar and find something on the internet or a map from time to time&hellip; and also comes with a nice touch screen and the dimensions are still acceptable for them. Someone is going to get a FirefoxOS device for Christmas!!</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="firefox-os" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="mobile-dev" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="movistar" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="zte-open" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Back on track]]></title>
+    <link href="http://bertocq.es/blog/back-on-track/"/>
+    <updated>2013-06-26T22:25:00+02:00</updated>
+    <id>http://bertocq.es/blog/back-on-track</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s has been a hell of a month, but finally difficulties all over. I have moved between 3 citys in 24 days, with all the logistics it involves (looking for rent houses, transporting our things, setting up internet, gas, water and ligth contracts&hellip;). Emancipation is hard, but this was a master class!</p>
+
+<p>So we are finally stable and I can get back to business.</p>
+
+<p>Meanwhile I was accepted as in the Firefox App Review Team, and wrote down two more ideas that hopefully will transform in nice FirefoxOS apps one day. Also bought an GeeksPhone Keon so the Peak doesn&rsquo;t feel alone anymore.</p>
+
+<p><img class="center" src="https://lh4.googleusercontent.com/-E1_nLO2WYsA/UdSLH9p9LBI/AAAAAAAAEBA/AyvUTnm36jE/w510-h680-no/2013-06-02+13.17.29.jpg" width="500" title="Geeksphone Keon and Peak" alt="Geeksphone Keon and Peak"></p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="personal" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="projects" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Winning a Firefox OS hackathon]]></title>
+    <link href="http://bertocq.es/blog/winning-a-firefox-os-hackathon/"/>
+    <updated>2013-06-03T18:42:00+02:00</updated>
+    <id>http://bertocq.es/blog/winning-a-firefox-os-hackathon</id>
+    <content type="html"><![CDATA[<p>On May 17th there was a <a href="http://espana.movilforum.com/jornadaffoxosbilbao/">FirefoxOS Day at the Bilbao University</a>, and later a hackathon.</p>
+
+<p>I had the oportunitty to talk with <a href="https://twitter.com/soyjavi">@soyjavi</a>, it&rsquo;s always a bit weird to talk to someone well known that you follow on videocast and twitter but he doesn&rsquo;t have a clue of who you are.</p>
+
+<p>The talks where great and inspiring, speakers <a href="https://twitter.com/jmcantera">@jmcantera</a> and <a href="https://github.com/crdlc">Cristian Rodriguez</a> I still had some memories from the talk on the past SpainJS conferences where I was able to touch the first prototype:</p>
+
+<p> <img class="center" src="http://distilleryimage5.ak.instagram.com/7a79c2aac6ef11e1b10e123138105d6b_7.jpg" width="500" height="500" title="Winning a GeeksPhone Peak" alt="Winning a GeeksPhone Peak"></p>
+
+<p>Some GeeksPhone devices where given as prize for technical questions but it felt almost random.</p>
+
+<p>After a good lunchbrake that replenished my energies (I had traveled 285km by car that day without rest) I headed to the hackathon. But I didn&rsquo;t knew anyone, and everybody seemed to had his group of pals and even some good ideas well prepared. There was going to be 4 categories to win a GeeksPhone device so it was totally a competition.</p>
+
+<p>I was just hoping to at least learn how to create a basic app and be able to push it to a real device. I cloned the <a href="https://github.com/crdlc/puzzle">example app</a> from Cristian&rsquo;s github, and started to make changes to see what I could do.</p>
+
+<p>Then I remembered a app idea that I had almost a year ago, very basic but still used the alarm and notification <a href="https://wiki.mozilla.org/WebAPI" title="WebApi Mozilla">WebApi&rsquo;s</a> so I spent 15 or 20 minutes trying to define what the app would be able to do and the incremental steps.</p>
+
+<blockquote class="twitter-tweet center"><p><a href="https://twitter.com/search?q=%23jffos&amp;src=hash">#jffos</a> hackathoneando <a href="http://t.co/R6cucvEGxm">pic.twitter.com/R6cucvEGxm</a></p>&mdash; movilforum (@movilf) <a href="https://twitter.com/movilf/statuses/335409077935013891">May 17, 2013</a></blockquote>
+
+
+<script async src="http://bertocq.es//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>The first problem was the FirefoxOS simulator, that didn&rsquo;t seem to be able to handle the Alarms WebApi and until I found that hitting Command+R the app wash refreshed so I didn&rsquo;t need to push it again and again. Then I made a simple visor.html to test the visual styles on the browser more quickly:</p>
+
+<figure class='code'><figcaption><span>Simple iframe to test the looks on the browser </span></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;iframe</span> <span class="na">src=</span><span class="s">&quot;index.html&quot;</span> <span class="na">width=</span><span class="s">&quot;320px&quot;</span> <span class="na">height=</span><span class="s">&quot;480px&quot;</span> <span class="nt">/&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>After 3 hours the time ran out and each group made a quick presentation in 1-2 minutes, we saw great but incompleted ideas, some others fully developed but a bit useful, and the greater ones where just awesome like their whatsapp clone Firetalk!</p>
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/search?q=%23jffos&amp;src=hash">#jffos</a> vamos a hacer un cliente de mensajería :-) <a href="http://t.co/6QZvor1ow5">pic.twitter.com/6QZvor1ow5</a></p>&mdash; movilforum (@movilf) <a href="https://twitter.com/movilf/statuses/335421031898570752">May 17, 2013</a></blockquote>
+
+
+<script async src="http://bertocq.es//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>Then the jury went out of the room and I started to pack my things because I was very hungry and still had a 1 hour ride back home. But I was awared with the prize to the best app in the e-Health  category, didn&rsquo;t truly believe it and even felt like it wasn&rsquo;t quite deserved, but talking before with the jury they told me that being alone and able to deliver a functional and useful app was the key for me to win.</p>
+
+<blockquote class="twitter-tweet center"><p>pues tras la deliberación del jurado tenemos a los ganadores <a href="https://twitter.com/search?q=%23jffos&amp;src=hash">#jffos</a> <a href="http://t.co/D2IRJHldo2">pic.twitter.com/D2IRJHldo2</a></p>&mdash; movilforum (@movilf) <a href="https://twitter.com/movilf/statuses/335426034054856705">May 17, 2013</a></blockquote>
+
+
+<script async src="http://bertocq.es//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>So thats the story of how I got my GeeksPhone Peak all alone in a hackathon 285km far from home ;)</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="firefox-os" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="geeksphone" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="hackathon" />
+    
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello (Octopress) World!]]></title>
+    <link href="http://bertocq.es/blog/hello-world/"/>
+    <updated>2013-05-24T01:32:00+02:00</updated>
+    <id>http://bertocq.es/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>My last blog died because I didn&rsquo;t have the time and motivation to write, mostly because I was tired of installing and modding wordpress for freelance jobs. Long ago I read some articles about Octopress and since many of the blogs I check use it I&rsquo;m giving it a try.</p>
+
+<p>So here I am, getting back on business, interesting and life-changing things happened to me this year and I think a have enough to write about the past, present and future. I&rsquo;ll be mainly writting about professional on mobile and web development, personal things normally go on facebook lately.</p>
+
+<p>I&rsquo;ll start with some plugins and theme customizations in my spare time. Welcome!</p>
+]]></content>
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="github" />
+    
+      <category scheme="http://bertocq.es/blog/categories/" term="octopress" />
+    
+  </entry>
+  
+</feed>
