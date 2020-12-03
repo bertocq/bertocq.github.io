@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://bertocq.es/sitemap.xml 
